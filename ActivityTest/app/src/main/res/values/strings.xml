@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="next_page">next page</string>
+    <string name="back">back</string>
+    <string name="list_view_btn">list_view_btn</string>
+    <string name="recyclerview_btn">recyclerview_btn</string>
+</resources>
