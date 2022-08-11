@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SavingTest</string>
+    <string name="save_sp">save_sp</string>
+    <string name="show_sp">show_sp</string>
+</resources>
