@@ -11,6 +11,9 @@ class LeftFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+        val activity = context
         return inflater.inflate(R.layout.left_fragment, container, false)
     }
+
+
 }
